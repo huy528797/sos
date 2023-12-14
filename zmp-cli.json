@@ -1,0 +1,17 @@
+{
+  "cwd": "D:\\Dự án MiniApp Zalo\\gariox-html",
+  "newProject": true,
+  "name": "test_3",
+  "package": "zmp-ui",
+  "framework": "react-typescript",
+  "cssPreProcessor": false,
+  "template": "blank",
+  "theming": {
+    "color": "#007aff",
+    "darkTheme": false,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "includeTailwind": false,
+  "stateManagement": "recoil"
+}

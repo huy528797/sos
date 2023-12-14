@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "test_3",
+    "headerTitle": "test_3",
+    "headerColor": "#1843EF",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "listCSS": ["assets/index.3fce1f81.css"],
+  "listSyncJS": ["assets/index.cafa2549.module.js"],
+  "listAsyncJS": []
+}
